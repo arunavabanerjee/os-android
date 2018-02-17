@@ -1,0 +1,12 @@
+ref: https://github.com/codepath/android_guides/wiki 
+(ref: https://github.com/codepath/android_guides/wiki/Installing-Android-SDK-Tools)
+The Android software development kit (SDK) includes different components, including SDK Tools, Build Tools, and Platform Tools. 
+The SDK Tools primarily includes the stock Android emulator, hierarchy viewer, SDK manager, and ProGuard. 
+The Build Tools primarily include aapt (Android packaging tool to create .APK), dx (Android tool that converts .java files 
+to .dex files). 
+Platform Tools include the Android debug shell, sqlite3 and Systrace.
+The Android SDK can be installed automatically using the latest version of Gradle or downloading the Android SDK manually in 
+several different ways. 
+
+Manual Android SDK Installation
+-------------------------------
