@@ -20,6 +20,7 @@ $ ./tools/bin/sdkmanager -- update
 -- show licence, check repositories stored in .android/repositories.cfg
 -- Warning: File /<user directory>/.android/repositories.cfg could not be loaded 
 -- create file .android/repositories.cfg 
--- updating downloads the foll: emulator, licenses, patcher, platform-tools, 
+-- updating downloads foll: emulator, licenses, patcher, platform-tools, 
+$./tools/bin/sdkmanager -- list -- will list all packages
 
 
