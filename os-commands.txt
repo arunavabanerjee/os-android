@@ -13,6 +13,7 @@ Manual Android SDK Installation
 This will download Android SDK without Android Studio. In Android Site, naviation to "Get Just Command Line Tools" 
 Alternatively we can use, wget with the correct SDK URL:
 $ wget https://dl.google.com/android/repository/tools_r25.2.3-macosx.zip. Unzipping to ~/android-sdk, "tools" dir created. 
+Top Directory - android-sdk/tools or Android/tools
 
 Running and Updating sdk manager
 ---------------------------------
@@ -21,6 +22,16 @@ $ ./tools/bin/sdkmanager -- update
 -- Warning: File /<user directory>/.android/repositories.cfg could not be loaded 
 -- create file .android/repositories.cfg 
 -- updating downloads foll: emulator, licenses, patcher, platform-tools, 
-$./tools/bin/sdkmanager -- list -- will list all packages
+$ ./tools/bin/sdkmanager -- list -- will list all packages
+#$ ./tools/bin/sdkmanager "build-tools;27.0.2" -- downloads build tools
+$ ./tools/bin/sdkmanager "build-tools;27.0.3" -- downloads build tools
+$ ./tools/bin/sdkmanager "platforms;android-27" -- downloads the platform
+$ ./tools/bin/sdkmanager "extras;android;m2repository" -- Android Support Repository
+$ ./tools/bin/sdkmanager "extras;google;m2repository"  -- Google Support Repository
+$ ./tools/bin/sdkmanager "sources;android-27"  -- Sources for Android
+
+---------------------------------------------------------------------------------------
+
+
 
 
