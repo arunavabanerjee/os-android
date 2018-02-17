@@ -9,8 +9,8 @@ Installed packages:
   tools          | 26.1.1  | Android SDK Tools          | tools/         
 
 Available Packages:
-  Path      					    | Version      | Description     
-  -------                 | -------      | -------                                                             
+  Path      					                              | Version      | Description     
+  -------                                           | -------      | -------                                                             
   add-ons;addon-google_apis-google-15               | 3            | Google APIs                                                         
   add-ons;addon-google_apis-google-16               | 4            | Google APIs                                                         
   add-ons;addon-google_apis-google-17               | 4            | Google APIs                                                         
