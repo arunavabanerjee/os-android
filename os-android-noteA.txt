@@ -1,0 +1,5 @@
+ref: https://developer.android.com/guide/index.html
+Android = Application Framework, allows build innovative apps and games for mobile devices.
+Android app framework: 
+a. Apps are built as a combination of distinct components that can be invoked individually. 
+b. 
