@@ -33,6 +33,29 @@ $ ./tools/bin/sdkmanager "sources;android-27"  -- Sources for Android
 
 ---------------------------------------------------------------------------------------
 
+To install:
+- Solver for ConstraintLayout 1.0.2 (extras;m2repository;com;android;support;constraint;constraint-layout-solver;1.0.2)
+- ConstraintLayout for Android 1.0.2 (extras;m2repository;com;android;support;constraint;constraint-layout;1.0.2)
+Preparing "Install Solver for ConstraintLayout 1.0.2 (revision: 1)".
+Downloading file:/home/developer/Softwares/android-studio/plugins/sdk-updates/offline-repo/com.android.support.constraint-constraint-layout-solver-1.0.2.zip
+"Install Solver for ConstraintLayout 1.0.2 (revision: 1)" ready.
+Preparing "Install ConstraintLayout for Android 1.0.2 (revision: 1)".
+Downloading file:/home/developer/Softwares/android-studio/plugins/sdk-updates/offline-repo/com.android.support.constraint-constraint-layout-1.0.2.zip
+"Install ConstraintLayout for Android 1.0.2 (revision: 1)" ready.
+Installing Solver for ConstraintLayout 1.0.2 in /home/developer/Softwares/Android/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2
+"Install Solver for ConstraintLayout 1.0.2 (revision: 1)" complete.
+Writing Maven metadata to /home/developer/Softwares/Android/extras/m2repository/com/android/support/constraint/constraint-layout-solver/maven-metadata.xml
+"Install Solver for ConstraintLayout 1.0.2 (revision: 1)" finished.
+Installing ConstraintLayout for Android 1.0.2 in /home/developer/Softwares/Android/extras/m2repository/com/android/support/constraint/constraint-layout/1.0.2
+"Install ConstraintLayout for Android 1.0.2 (revision: 1)" complete.
+Writing Maven metadata to /home/developer/Softwares/Android/extras/m2repository/com/android/support/constraint/constraint-layout/maven-metadata.xml
+"Install ConstraintLayout for Android 1.0.2 (revision: 1)" finished.
+
+--------------------------------------------------------------------------
+
+Downloading https://services.gradle.org/distributions/gradle-4.1-all.zip
+
+
 
 
 
