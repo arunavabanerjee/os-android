@@ -1,5 +1,35 @@
 ref: https://developer.android.com/guide/index.html
-Android = Application Framework, allows build innovative apps and games for mobile devices.
-Android app framework: 
-a. Apps are built as a combination of distinct components that can be invoked individually. 
-b. 
+ref: http://www.vogella.com/tutorials/AndroidBuild/article.html
+ref: http://eqdn.tech/android-development-on-the-command-line/
+//list of tools in sdkmanager 
+[user@localhost]$ ~/android_sdk/tools/bin/sdkmanager --list
+Installed packages:=====================] 100% Computing updates...             
+  Path                                       | Version | Description                        | Location                                                                          
+  -------                                    | ------- | -------                            | -------                                                                           
+  build-tools;26.0.2                         | 26.0.2  | Android SDK Build-Tools 26.0.2     | build-tools/26.0.2/                                                               
+  build-tools;26.0.3                         | 26.0.3  | Android SDK Build-Tools 26.0.3     | build-tools/26.0.3/                                                               
+  build-tools;27.0.2                         | 27.0.2  | Android SDK Build-Tools 27.0.2     | build-tools/27.0.2/                                                               
+  build-tools;27.0.3                         | 27.0.3  | Android SDK Build-Tools 27.0.3     | build-tools/27.0.3/                                                               
+  emulator                                   | 27.1.7  | Android Emulator                   | emulator/                                                                         
+  extras;android;m2repository                | 47.0.0  | Android Support Repository         | extras/android/m2repository/                                                      
+  extras;google;m2repository                 | 58      | Google Repository                  | extras/google/m2repository/                                                       
+  extras;m2repository;com;android;support;constraint;constraint-layout-solver;1.0.2 | 1       
+   | Solver for ConstraintLayout 1.0.2  | extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/
+  extras;m2repository;com;android;support;constraint;constraint-layout;1.0.2        | 1      
+   | ConstraintLayout for Android 1.0.2 | extras/m2repository/com/android/support/constraint/constraint-layout/1.0.2/       
+  patcher;v4                                  | 1       | SDK Patch Applier v4               | patcher/v4/                                                                       
+  platform-tools                              | 27.0.1  | Android SDK Platform-Tools         | platform-tools/                                                                   
+  platforms;android-26                        | 2       | Android SDK Platform 26            | platforms/android-26/                                                             
+  platforms;android-27                        | 1       | Android SDK Platform 27            | platforms/android-27/                                                             
+  sources;android-27                          | 1       | Sources for Android 27             | sources/android-27/                                                               
+  tools                                       | 26.1.1  | Android SDK Tools                  | tools/                                                                            
+
+Build An App from Command Line Using Gradle:
+---------------------------------------------
+a. install gradle - https://gradle.org/releases/ 
+b. android command in ./tools/android 
+c. list platforms installed in the sdk -- /tools/android list target
+d. list devices for the sdk -- /tools/android list device
+e. 
+
+
