@@ -30,6 +30,7 @@ a. install gradle - https://gradle.org/releases/
 b. android command in ./tools/android 
 c. list platforms installed in the sdk -- /tools/android list target
 d. list devices for the sdk -- /tools/android list device
-e. 
+e. create a new project directory, jump into it and execute -- "gradle init --type java-library" 
+
 
 
