@@ -70,12 +70,20 @@ c. files for gradle (on init) --
 ├── gradle
 │   └── wrapper
 │       ├── gradle-wrapper.jar --- gradle wrapper executable
-│       └── gradle-wrapper.properties --- wrapper confg properties
+│       └── gradle-wrapper.properties --- wrapper config properties
 ├── gradlew --- wrapper script for unix like systems
 ├── gradlew.bat --- wrapper script for windows like systems 
 └── settings.gradle --- settings configuation scripts for configuring which projects participate in build
 ---------------------------------------------------------------------------------
-d. 
+gradle init can generate various different types of projects, 
+and even knows how to translate simple pom.xml files to Gradle. 
+---------------------------------------------------------------------------------
+d. Set the distribution url to the gradle directory in "gradle/wrapper/gradle-wrapper.properties" 
+   the default url is the "bin file url" of gradle. 
+   It can be set to the gradle distribution in gradle-wrapper.properties:  
+    distributionUrl=file\:///C:/Users/johndoe/downloads/gradle-2.1-all.zip
+e.  
+
 
 
 
