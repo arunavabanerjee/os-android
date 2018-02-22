@@ -201,6 +201,18 @@ status: release
 subprojects: []
 tasks: task set
 version: unspecified
+---------------------------------------------------------------------------
+//gradle build script blocks
+allprojects { }
+artifacts { }
+buildscript { }
+configurations { }
+dependencies { }
+repositories { }
+sourceSets { }
+subprojects { }
+publishing { }
+
 
 
 
