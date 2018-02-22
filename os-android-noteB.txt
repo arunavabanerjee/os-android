@@ -61,6 +61,11 @@ USAGE: gradle [option...] [task...]
 mkdir -p src/main/java/hello 
 mkdir -p app/libs
 mkdir -p app/src/
+------------------------------------------------------------------------------------------------------
+//build using gradle system
+a. create dir name - "dirappln"
+b. inside dir generate gradle build - gradle init 
+c. 
 
 
 
