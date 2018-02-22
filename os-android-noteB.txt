@@ -65,7 +65,23 @@ mkdir -p app/src/
 //build using gradle system
 a. create dir name - "dirappln"
 b. inside dir generate gradle build - gradle init 
-c. 
+c. files for gradle (on init) -- 
+├── build.gradle --- project config scripts for the project
+├── gradle
+│   └── wrapper
+│       ├── gradle-wrapper.jar --- gradle wrapper executable
+│       └── gradle-wrapper.properties --- wrapper confg properties
+├── gradlew --- wrapper script for unix like systems
+├── gradlew.bat --- wrapper script for windows like systems 
+└── settings.gradle --- settings configuation scripts for configuring which projects participate in build
+---------------------------------------------------------------------------------
+d. 
+
+
+
+
+
+
 
 
 
