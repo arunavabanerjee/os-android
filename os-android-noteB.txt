@@ -123,17 +123,14 @@ e.
 
 
 
-========================================
+=====================================================================
 == properties
-========================================
-[developer@localhost MyNew1Application]$ ./gradlew properties
-
+=====================================================================
+[;root@localhost application]$ ./gradlew properties
 > Task :properties
-
 ------------------------------------------------------------
 Root project
 ------------------------------------------------------------
-
 allprojects: [root project 'MyNew1Application']
 ant: org.gradle.api.internal.project.DefaultAntBuilder@79289ccd
 antBuilderFactory: org.gradle.api.internal.project.DefaultAntBuilderFactory@3c45db0a
@@ -204,10 +201,6 @@ status: release
 subprojects: []
 tasks: task set
 version: unspecified
-
-
-
-
 
 
 
