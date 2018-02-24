@@ -1,0 +1,10 @@
+// links:
+https://en.wikipedia.org/wiki/Android_(operating_system) 
+https://en.wikipedia.org/wiki/Android_software_development 
+https://en.wikipedia.org/wiki/Comparison_of_mobile_operating_systems 
+
+https://gradle.org/releases/
+https://www.xamarin.com/
+https://blog.jscrambler.com/10-frameworks-for-mobile-hybrid-apps/ 
+https://cordova.apache.org/
+https://nodejs.org/en/
