@@ -8,3 +8,10 @@ https://www.xamarin.com/
 https://blog.jscrambler.com/10-frameworks-for-mobile-hybrid-apps/ 
 https://cordova.apache.org/
 https://nodejs.org/en/
+https://www.ntu.edu.sg/home/ehchua/programming/android/Android_HowTo.html
+
+https://github.com/codepath/android_guides/wiki
+https://github.com/codepath/android_guides/wiki/Effective-Java-for-Android
+https://github.com/codepath/android_guides/wiki/Keeping-Updated-with-Android
+https://github.com/codepath/android_guides/wiki/Sample-Android-Apps
+https://github.com/libgdx/libgdx/wiki/Gradle-on-the-Commandline
