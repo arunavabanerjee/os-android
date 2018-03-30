@@ -1,0 +1,36 @@
+Android Apps Development 
+----------------------------------------------------------
+Introduction 
+ (Mobile Application Development, What is Android, History of Android Platform,  
+  Android Features, Android Architecture, Pre requisites for Development, Environment Setup)
+
+Elements
+ (Components of IDE, Android Studio, Android Application Framework, Application Components
+  UI and Screen Layout Design Elements)
+
+The Android Platform
+ (Java SE, Dalvik Virtual Machine, The Project Folder Structure, XML Usage, The AndroidManifest.xml File)
+
+Android Application
+ (The Application Life Cycle, Activity Life Cycle, Activity States, Application Resources)
+
+User Interface
+ (Views, XML Layouts, Common UI elements, Menus, Dialogs)
+
+Media
+ (Graphics Basics, Displaying images and animation, Canvas and Drawables, OpenGL ES,
+  Hardware Acceleration, Animation, Audio Playback, Video Playback, Supported Media Formats)
+
+Events
+ (Handling click and touch events, Keyboard events handling, Using context menus)
+
+Content Providers
+ (Content Providers Basics, Defining and working with content provider)
+
+Intents and Intent Filters
+  (Intents and types, Intents and Activities, Intent Messaging and Resolution, Broadcast Receivers)
+
+Miscellaneous
+  (Widgets, Google Maps, Google Search Integration, Location Based Services, Data Storage, 
+   Device Administration, Web Apps)
+
