@@ -15,7 +15,14 @@ https://developer.android.com/studio#downloads [download command line tools]
 Alternatively we can use, wget with the correct SDK URL:
 $ wget https://dl.google.com/android/repository/tools_r25.2.3-macosx.zip. Unzipping to ~/android-sdk, "tools" dir created. 
 Top Directory - android-sdk/tools or Android/tools 
-SDK Dir Tree - build-tools, emulator, extras, licenses, patcher, platforms, platform-tools, sources, tools
+SDK Dir Tree - build-tools, emulator, extras, licenses, patcher, platforms, platform-tools, sources, tools 
+
+Custom Directory:
+------------------
+Top Directory - android-command-sdk.
+SDKManager Help - ./tools/bin/sdkmanager --help 
+$ ./tools/bin/sdkmanager --list [list all packages, available and installed]
+
 
 Running and Updating sdk manager
 ---------------------------------
